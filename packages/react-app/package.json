@@ -1,4 +1,5 @@
 {
+  "homepage": "http://kronozz1.github.io/TechSwap2.0",
   "name": "@my-app/react-app",
   "version": "1.0.0",
   "homepage": "./",
@@ -48,6 +49,11 @@
     "eject": "react-scripts eject",
     "ipfs": "yarn build && ipfs-deploy build/",
     "start": "react-scripts start",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "predeploy": "npm run build ",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
