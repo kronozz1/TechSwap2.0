@@ -23,8 +23,8 @@ const App = () => {
         </header>
 
         <div className={styles.exchangeContainer}>
-          <h1 className={styles.headTitle}>Techswap 2.0</h1>
-          <p className={styles.subTitle}>Exchange tokens in seconds</p>
+          <h1 className={styles.headTitle}>Techswap 2.0</h1
+          <p> className={styles.subTitle}>Exchange tokens in seconds</p>
 
           <div className={styles.exchangeBoxWrapper}>
             <div className={styles.exchangeBox}>

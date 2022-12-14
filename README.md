@@ -1,4 +1,4 @@
-# Build and Deploy a Modern Crypto Exchange Uniswap dApp and Master Web3 Development & Smart Contracts
+# This is the TechoSwap2.0 is live now go check it out: 
 ![Uniswap](https://i.ibb.co/GV4ZBpG/Thumbnail-9.png)
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+### I'm here to help web3 freaks to get rapid knowledge [Aman faridi](https://kronozz1.github.io).
