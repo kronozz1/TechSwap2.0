@@ -7,8 +7,9 @@ import styles from "../styles";
 const WalletButton = () => {
   const [rendered, setRendered] = useState("");
 
-  const { ens } = useLookupAddress();
   const { account, activateBrowserWallet, deactivate } = useEthers();
+    const { ens } = useLookupAddress(account);
+
 
   useEffect(() => {
     if (ens) {
