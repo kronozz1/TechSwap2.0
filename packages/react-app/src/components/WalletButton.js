@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { shortenAddress, useEthers, useLookupAddress } from "@usedapp/core";
+import {providers} from "ethers";
 
 import styles from "../styles";
 
